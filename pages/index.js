@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>MedTech 7</title>
+        <title>Global MedTech</title>
         <meta name="description" content="Your one stop home for personal fitness and healthcare. Hassle-free, online, 24/7 Artificial Intelligence (AI) assisted consultation and home diagnosis" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
